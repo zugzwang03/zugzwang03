@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ss2563@cse.jgec.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Y7YR-Ezq06NnNYGh86s7LYljWcTQFjyW/view?usp=sharing&usp=embed_facebook](https://drive.google.com/file/d/1Y7YR-Ezq06NnNYGh86s7LYljWcTQFjyW/view?usp=sharing&usp=embed_facebook)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Y7YR-Ezq06NnNYGh86s7LYljWcTQFjyW/view?usp=sharing&usp=embed_facebook)
 
 - ⚡ Fun fact **I am still immature even after crossing my maturity age.**
 
