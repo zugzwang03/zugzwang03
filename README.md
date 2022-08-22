@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Y7YR-Ezq06NnNYGh86s7LYljWcTQFjyW/view?usp=sharing&usp=embed_facebook)
 
-- ⚡ Fun fact **I am still immature even after crossing my maturity age.**
+- ⚡ Fun fact **I am still immature even after crossing my age of maturity.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
