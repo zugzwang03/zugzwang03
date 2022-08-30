@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **I am still immature even after crossing my age of maturity.**
 
+- ❣️ Shower some love to my article : [My Journey in WE so far!](https://medium.com/@shreyasristi2003/the-journey-in-we-so-far-61db18926a0d) 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shreya-sarkar-a788b4225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shreya-sarkar-a788b4225/" height="30" width="40" /></a>
