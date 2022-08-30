@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **ReactJs and NodeJs**
 
-- 📫 How to reach me **ss2563@cse.jgec.ac.in**
+- 📫 How to reach me : **ss2563@cse.jgec.ac.in**
 
 - 📄 Know about my experiences : [my work life](https://drive.google.com/file/d/1Y7YR-Ezq06NnNYGh86s7LYljWcTQFjyW/view?usp=sharing&usp=embed_facebook)
 
-- ⚡ Fun fact **I am still immature even after crossing my age of maturity.**
+- ⚡ Fun fact : **I am still immature even after crossing my age of maturity.**
 
 - ❣️ Shower some love to my article : [My Journey in WE so far!](https://medium.com/@shreyasristi2003/the-journey-in-we-so-far-61db18926a0d) 
 
