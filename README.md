@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zugzwang03" alt="zugzwang03" /></a> </p>
 
-- 🔭 I’m currently working on [SimplyRecipes](https://zugzwang03.github.io/SimplyRecipes/)
+- 🔭 I’m currently working on [eduApp](https://github.com/zugzwang03/eduApp/)
 
-- 🌱 I’m currently learning **ReactJs and NodeJs**
+- 🌱 I’m currently learning **Angular and NodeJs**
 
 - 📫 How to reach me : **ss2563@cse.jgec.ac.in**
 
-- 📄 Know about my experiences : [my work life](https://drive.google.com/file/d/1Y7YR-Ezq06NnNYGh86s7LYljWcTQFjyW/view?usp=sharing&usp=embed_facebook)
-
-- ⚡ Fun fact : **I am still immature even after crossing my age of maturity.**
+- ⚡ Fun fact : **I can overthink and underthink simultaneously**
 
 - ❣️ Shower some love to my article : [My Journey in WE so far!](https://medium.com/@shreyasristi2003/the-journey-in-we-so-far-61db18926a0d) 
 
